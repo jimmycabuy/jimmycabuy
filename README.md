@@ -12,7 +12,7 @@
 ### 🛠 Tech Stack:
 
 <br>
-
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=React)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=Node.js)&nbsp;
@@ -23,7 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
-
+</div>
 <br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
