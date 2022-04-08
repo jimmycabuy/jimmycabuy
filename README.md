@@ -37,7 +37,7 @@
 <h4 align="center">⚡️ A few statistics... </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&hide_title=truetheme=graywhite&hide_border=true&card_width=4000/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&hide_title=truetheme=graywhite&hide_border=true&card_width=500&langs_count=10/">
 </p>
   
   
