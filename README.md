@@ -12,7 +12,7 @@
 
 <h4>✌🏼 I also ... </h4>
 
-![Photoshop](https://img.shields.io/badge/-Photoshop-%231572B6?style=flat-square&logo=photoshop&logoColor=ffffff)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-A8B9CC?style=flat-square&logo=Figma&logoColor=ffffff)
 
