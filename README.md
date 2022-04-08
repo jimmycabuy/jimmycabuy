@@ -27,6 +27,6 @@
 
 <p style=>  
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=jimmycabuy&theme=blue-green
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmycabuy&theme=blue-green">
 
 </p>
