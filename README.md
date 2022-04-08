@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-MongoDB-339933?style=flat&logo=Mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-339933?style=flat&logo=Mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"> 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">   
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=001e36 "> 
