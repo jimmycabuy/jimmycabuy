@@ -1,4 +1,4 @@
-# <h1 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile</h1>
+<h1 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile</h1>
 
 <p align="center">
 <br>
@@ -21,12 +21,12 @@
 
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-Figma-A8B9CC?style=flat-square&logo=Figma&logoColor=ffffff)
+
   
 <h4>📊 Some stats </h4>
 
 <p style=>  
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&langs_count=8&theme=algolia"/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=jimmycabuy&theme=blue-green
 
 </p>
