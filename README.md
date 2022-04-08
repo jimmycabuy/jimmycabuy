@@ -1,5 +1,6 @@
-<h1 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile</h1>
+<h2 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile</h2>
 
+<h4 align="center">😍 Reach me now </h4>
 <p align="center">
 <a href="https://www.facebook.com/jimmycabuy"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/jimmycabuy"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -18,7 +19,7 @@
 <img src="https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=bootstrap&logoColor=ffffff">
   
 </p>
-<h4 align="center">✌🏼 I can also ... </h4>
+<h4 align="center">✌🏼 I can also do ... </h4>
 
 <p align="center">
   
@@ -31,6 +32,6 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" width="500em" border="0" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&langs_count=8&theme=blue-green/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&langs_count=8&theme=blue-green/">
 </a>
 </p>
