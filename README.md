@@ -30,6 +30,10 @@
 <img src="https://aleen42.github.io/badges/src/illustrator.svg">
 <img src="https://aleen42.github.io/badges/src/premiere.svg">
   
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white "> 
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6">
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white">   
+  
   
 </p>
   
