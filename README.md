@@ -22,16 +22,11 @@
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-A8B9CC?style=flat-square&logo=Figma&logoColor=ffffff)
-
-<h4>📫 You can reach me on </h4>
-<a href="mailto:js.morel130@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/JeanSebastien130"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/jsmorel/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
 <h4>📊 Some stats </h4>
 
 <p style=>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSebastien130&theme=tokyonight&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jimmycabuy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </p>
