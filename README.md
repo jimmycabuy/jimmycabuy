@@ -26,6 +26,6 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&langs_count=8&theme=blue-green/">
+  <img height="180em" width="500em" border="0" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&langs_count=8&theme=blue-green/">
 </a>
 </p>
