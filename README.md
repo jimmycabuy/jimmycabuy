@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"> 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white">   
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=001e36 "> 
-<img src="https://img.shields.io/badge/Adobe%20AXD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6">
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6">
 <img src="https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=001e36">
   
 </p>
