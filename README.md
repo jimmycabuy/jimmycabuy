@@ -36,5 +36,5 @@
 <h4 align="center">⚡️ Some stats </h4>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&langs_count=8&theme=graywhite/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmycabuy&layout=compact&theme=graywhite/">
 </p>
