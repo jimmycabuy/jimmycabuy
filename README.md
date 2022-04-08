@@ -26,7 +26,8 @@
   
 <img src="https://aleen42.github.io/badges/src/photoshop.svg"> 
 <img src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img src="https://aleen42.github.io/badges/src/premiere.svg">
+<img src="https://aleen42.github.io/badges/src/premiere.svg">
+<img src="https://aleen42.github.io/badges/src/lightroom.svg">
   
   
 </p>
