@@ -16,8 +16,8 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=bootstrap)
 
-<h4 align="center">✌🏼 I also ... </h4>
-<p align="center">
+<h4 align="center">✌🏼 I can also ... </h4>
+
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
 
