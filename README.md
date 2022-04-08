@@ -7,7 +7,7 @@
 </p>
 
 <h4 align="center">🥳 What can I do </h4>
-<p align="center">
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -15,12 +15,12 @@
 ![React](https://img.shields.io/badge/-React/RNative-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=bootstrap)
-</p>
+
 <h4 align="center">✌🏼 I also ... </h4>
 <p align="center">
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
-</p>
+
   
 <h4 align="center">📊 Some stats </h4>
 
