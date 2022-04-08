@@ -23,7 +23,7 @@
 <p align="center">
   
 <img src="https://aleen42.github.io/badges/src/photoshop.svg&logoColor=ffffff"> 
-![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
+<img src="https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff">
   
 </p>
   
