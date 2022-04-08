@@ -2,24 +2,24 @@
 
 <h4 align="center">🚀 Reach me now on... </h4>
 <p align="center">
-<a href="https://www.facebook.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;
-<a href="https://instagram.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram""></a>&nbsp;
-<a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.facebook.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;
+<a href="https://instagram.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram""></a>&nbsp;
+<a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 </p>
 
 <h4 align="center">🧠 What I can do... </h4>
 <p align="center">
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-339933?style=for-the-badge&logo=Mongodb&logoColor=ffffff">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff">
   
 </p>
 <h4 align="center">🎯 What I can also do... </h4>
