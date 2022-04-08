@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/-React/RNative-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=bootstrap&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff">
   
 </p>
 <h4 align="center">✌🏼 I can also do ... </h4>
@@ -24,7 +25,9 @@
 <p align="center">
   
 <img src="https://aleen42.github.io/badges/src/photoshop.svg"> 
-<img src="https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff">
+<img src="https://aleen42.github.io/badges/src/illustrator.svg">
+  <img src="https://aleen42.github.io/badges/src/premiere.svg">
+  
   
 </p>
   
