@@ -1,36 +1,41 @@
-<h1 align="center">Student Full-Stack Developer.🌟</h1>
+# <h1 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile</h1>
 
-<br>
-<h3>👨🏻‍💻About Me</h3>
+ 🏋️‍♀️ I’m currently FullStack Web Developer & student @L'Ecole42<br>
+ 📚 I've done LeWagon's bootcamp and LaCapsule's bootcamp<br>
+ 👨‍🏫 I've worked as Teacher's Assistant and Lead teacher in several bootcamps tho<br>
+ 👯 For the moment : I can work with/for you<br>
+ 🛫 Travelling and playing field hockey is what I do during my free-time !<br>
+ 🐱 I'm a big cat's&dog's lover, no jealous with me 🐶<br><br>
 
-<br>
 
-- 👨🏻‍🎓 I’m currently learning Web Full-Stack Development at LaCapsule.
+<h4>⚔️ The stacks I'm using </h4>
 
-<br><br>
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express&&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React/RNative-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/-Ruby-%23E44D27?style=flat-square&logo=Ruby&logoColor=ffffff)
+![RubyOnRails](https://img.shields.io/badge/-RoR-%23E44D27?style=flat-square&logo=RubyOnRails&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![BootStrap](https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=bootstrap)
 
-### 🛠 Tech Stack:
+<h4>💻 I also use </h4>
 
-<br>
-<div align="center">
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=React)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=Node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)&nbsp;
-</div>
-<br><br>
+![Postgres](https://img.shields.io/badge/-Postgres-%231572B6?style=flat-square&logo=Postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-A8B9CC?style=flat-square&logo=Figma&logoColor=ffffff)
 
-### ⚙️ &nbsp;GitHub Analytics
+<h4>📫 You can reach me on </h4>
+<a href="mailto:js.morel130@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/JeanSebastien130"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/jsmorel/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+<h4>📊 Some stats </h4>
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ValentinVandeuren&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ValentinVandeuren&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p style=>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSebastien130&theme=tokyonight&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
