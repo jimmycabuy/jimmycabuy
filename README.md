@@ -3,8 +3,8 @@
 <h4 align="center">🚀 Reach me now on... </h4>
 <p align="center">
 <a href="https://www.facebook.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;
-<a href="https://instagram.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram""></a>&nbsp;
-<a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://instagram.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram""></a>&nbsp;
+<a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 </p>
 
 <h4 align="center">🧠 What I can do... </h4>
