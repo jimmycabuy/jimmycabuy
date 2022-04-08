@@ -8,12 +8,11 @@
 ![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express&&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React/RNative-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![RubyOnRails](https://img.shields.io/badge/-RoR-%23E44D27?style=flat-square&logo=RubyOnRails&logoColor=ffffff)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=bootstrap)
 
 <h4>✌🏼 I also ... </h4>
 
-![Photoshop](https://img.shields.io/badge/-Postgres-%231572B6?style=flat-square&logo=photoshop&logoColor=ffffff)
+![Photoshop](https://img.shields.io/badge/-Photoshop-%231572B6?style=flat-square&logo=photoshop&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-A8B9CC?style=flat-square&logo=Figma&logoColor=ffffff)
 
