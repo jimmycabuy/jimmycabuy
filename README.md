@@ -1,5 +1,12 @@
 # <h1 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile</h1>
 
+<p align="center">
+<br>
+<a href="https://www.facebook.com/jimmycabuy"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/jimmycabuy"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jimmycabuy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+</p>
+
 <h4>🥳 What can I do </h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
