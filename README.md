@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=001e36 "> 
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
 <img src="https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=001e36">
-  
+<img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white">
 </p>
   
 <h4 align="center">⚡️ A few statistics... </h4>
