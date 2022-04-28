@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   
