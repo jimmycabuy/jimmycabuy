@@ -1,5 +1,5 @@
 <h2 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile 👨🏽‍💻</h2>
-<h4 align="center">🚀 Reach me now o... </h4>
+<h4 align="center">🚀 Reach me now on... </h4>
 <p align="center">
 <a href="https://www.facebook.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;
 <a href="https://instagram.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram""></a>&nbsp;
