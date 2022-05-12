@@ -19,8 +19,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37">
-<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101"> 
+<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"> 
   
 </p>
 <h4 align="center">🎯 What I can also do... </h4>
@@ -29,6 +28,7 @@
 
 <img src="https://img.shields.io/badge/MongoDB-339933?style=flat&logo=Mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"> 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">   
