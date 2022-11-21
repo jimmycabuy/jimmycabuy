@@ -4,7 +4,7 @@
 <a href="https://www.facebook.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;
 <a href="https://instagram.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram""></a>&nbsp;
 <a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank" rel='noreferrer'><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="https://t.me/+32474917815" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;
+<a href="https://t.me/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;
 </p>
 
 <h4 align="center">🧠 What I can do... </h4>
