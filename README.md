@@ -45,5 +45,5 @@
 <h4 align="center">⚡️ A few statistics... </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmycabuy&hide_title=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </p>
