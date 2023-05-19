@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/React-00D8FF?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white">
