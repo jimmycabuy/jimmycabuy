@@ -2,7 +2,8 @@
 
 ## 👨🏽‍💻 About me
 
-I'm a dedicated web developer with a strong attention to detail and a passion for web design. Currently, I'm working as a front-end developer at [Decathlon
+I'm a dedicated web developer with a strong attention to detail and a passion for web design.
+Currently, I contribute my skills as a front-end developer at [Decathlon
 Belgium](https://www.decathlon.be/fr/).
 
 ## 🎯 Skills
