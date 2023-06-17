@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 About me
 
-I'm a passionate front-end developer with a keen eye for detail and a love for web design. Currently, I work as a front-end Developer at [Decathlon
+I'm a passionate front-end developer with a keen eye for detail and a love for web design. Currently, I work as a front-end developer at [Decathlon
 Belgium](https://www.decathlon.be/fr/).
 
 ## 🎯 Skills
