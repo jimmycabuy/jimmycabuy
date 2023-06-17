@@ -1,51 +1,35 @@
-<h2 align="center">👋🏼 there ! I'm Jimmy, welcome to my profile 👨🏽‍💻</h2>
-<h4 align="center">🚀 Reach me now on... </h4>
-<p align="center">
-<a href="https://www.facebook.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;
-<a href="https://instagram.com/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram""></a>&nbsp;
-<a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank" rel='noreferrer'><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="https://t.me/jimmycabuy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>&nbsp;
+![JIMMY](https://github.com/jimmycabuy/jimmycabuy/assets/102294421/abcd586a-da32-43e1-a42d-122ad1d64070)
+
+## 👨🏽‍💻 About Me
+
+I'm a passionate front-end developer with a keen eye for detail and a love for web design. Currently, I work as a front-end Developer at [Decathlon
+Belgium](https://www.decathlon.be/fr/).
+
+## 🎯 Skills
+
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="40">&nbsp;
+  <img src="https://camo.githubusercontent.com/edc736634dd35b0f4008e2f7db456136b9fc0e1e7a4078bb72c7352b1bdf8a7e/68747470733a2f2f776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667" height="40">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="40">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="40">&nbsp;
+  <img src="https://grafikart.fr/uploads/icons/redux.svg" height="40">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="40">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" height="40">&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" height="40">&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" height="40">&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-K87V67eXnkP_S7cpnLGQaEIETTATH1F81HQ4qXotydRQAeIxYohAzSsN97cbZt0VgU&usqp=CAU" height="40">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40">&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="40">&nbsp;
 </p>
 
-<h4 align="center">🧠 What I can do... </h4>
-<p align="center">
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&&logoColor=white">
-<img src="https://img.shields.io/badge/React-00D8FF?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwindcss-%2338BDF8.svg?style=flat&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37">
-<img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"> 
-  
-</p>
-<h4 align="center">🎯 What I can also do... </h4>
+## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
 
-<img src="https://img.shields.io/badge/MongoDB-339933?style=flat&logo=Mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"> 
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">   
-<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=001e36 "> 
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=001e36">
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
-</p>
-  
-<h4 align="center">⚡️ A few statistics... </h4>
+<a href="https://www.facebook.com/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246629117-94a35323-4438-4efa-8e72-d4fc66147422.png" alt="Facebook" height="40"></a>&nbsp;
+<a href="https://www.instagram.com/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246629118-e95dbe80-6d07-4131-a975-c8f8692fc48e.png" alt="Instram" height="40"></a>&nbsp;
+<a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246629122-8a65d637-54fa-4cba-a334-506d001b7fd4.png" alt="Linkedin" height="40"></a>&nbsp;
+<a href="https://www.twitter.com/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246629119-1666d809-67b6-4970-b728-51869615e8cc.png" alt="Twitter" height="40"></a>&nbsp;
+<a href="https://t.me/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246629121-b4390892-6f7e-4502-a88f-8467a8fbe4df.png" alt="Telegram" height="40"></a>&nbsp;
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=jimmycabuy&&hide_title=true&layout=compact">
 </p>
