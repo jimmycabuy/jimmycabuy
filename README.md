@@ -1,6 +1,6 @@
 ![JIMMY](https://github.com/jimmycabuy/jimmycabuy/assets/102294421/abcd586a-da32-43e1-a42d-122ad1d64070)
 
-## 👨🏽‍💻 About Me
+## 👨🏽‍💻 About me
 
 I'm a passionate front-end developer with a keen eye for detail and a love for web design. Currently, I work as a front-end Developer at [Decathlon
 Belgium](https://www.decathlon.be/fr/).
@@ -22,7 +22,7 @@ Belgium](https://www.decathlon.be/fr/).
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="40">&nbsp;
 </p>
 
-## 🌐 Connect with Me
+## 🌐 Connect with me
 
 <p align="left">
 
