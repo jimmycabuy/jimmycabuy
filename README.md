@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 About me
 
-Passionate about web development, I bring a keen eye for detail and a love for web design. Currently, I contribute my skills as a front-end developer at [Decathlon
+Driven by a perfectionistic nature and a meticulous attention to detail, I am a passionate web developer with a love for web design. Currently, I contribute my skills as a front-end developer at [Decathlon
 Belgium](https://www.decathlon.be/fr/).
 
 ## 🎯 Skills
