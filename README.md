@@ -11,13 +11,13 @@ Belgium](https://www.decathlon.be/fr/).
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="_blank"
   ><img
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246649924-941358f0-b52c-4b53-b20c-d5fbcfb01ad9.png"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246650674-d09672a3-ced8-4a42-8976-8b2fe2c32f0d.png"
     alt="html"
     height="40" /></a
 >&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"
   ><img
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246649926-67a84674-4668-4a1f-ac67-8d900ac05eda.png"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246650678-da851e39-413a-43b5-9b4e-9abcde829f9e.png"
     alt="css"
     height="40" /></a
 >&nbsp;
