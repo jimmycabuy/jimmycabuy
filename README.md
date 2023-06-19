@@ -75,10 +75,16 @@ Belgium](https://www.decathlon.be/fr/).
     alt="figma"
     height="40" /></a
 >&nbsp;
-<a href="https://www.adobe.com/be_en/products/photoshop.html" target="_blank"
+<a href="https://www.adobe.com/be_fr/products/photoshop/landpb.html" target="_blank"
   ><img
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246649939-a5481d4a-1989-4bfa-a9cf-a9a151b173ec.png"
     alt="photoshop"
+    height="40" /></a
+>&nbsp;
+<a href="https://helpx.adobe.com/be_fr/xd/get-started.html" target="_blank"
+  ><img
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246755342-b1bc79d8-934d-4b51-8ddc-c70cb195081d.png"
+    alt="xd"
     height="40" /></a
 >&nbsp;
 </p>
