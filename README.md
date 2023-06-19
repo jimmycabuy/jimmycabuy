@@ -11,13 +11,13 @@ Belgium](https://www.decathlon.be/fr/).
 <p align="left">
 <a href="https://www.w3schools.com/html/" target="_blank"
   ><img
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246650674-d09672a3-ced8-4a42-8976-8b2fe2c32f0d.png"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246750713-a5d6d6f0-d402-47de-bc68-7e4d96048bfb.png"
     alt="html"
     height="40" /></a
 >&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"
   ><img
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246650678-da851e39-413a-43b5-9b4e-9abcde829f9e.png"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246750716-9f00bc8f-9891-4241-a4b7-2fb446d04eca.png"
     alt="css"
     height="40" /></a
 >&nbsp;
@@ -65,13 +65,13 @@ Belgium](https://www.decathlon.be/fr/).
 >&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"
   ><img
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246649937-9f9802b3-8163-4de7-ac80-9788c623502d.png"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246751985-8a9aa4c8-360d-462c-bab6-3df82c9b1b3b.png"
     alt="mongodb"
     height="40" /></a
 >&nbsp;
 <a href="https://www.figma.com/" target="_blank"
   ><img
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246649938-b5afc7a6-202f-40df-8847-58eebfb71793.png"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246750721-cee43bf4-057f-422c-a6c6-e0b4954b6685.png"
     alt="figma"
     height="40" /></a
 >&nbsp;
