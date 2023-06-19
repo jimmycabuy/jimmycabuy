@@ -13,7 +13,7 @@ as a front-end developer at [Decathlon Belgium](https://www.decathlon.be/fr/).
     <a href="https://redux.js.org/" target="_blank"><img src="https://cutt.ly/fwtaemUh" alt="redux" height="40" /></a>&nbsp;
     <a href="https://svelte.dev/" target="_blank"><img src="https://cutt.ly/nwtaeYgQ" alt="svelte" height="40" /></a>&nbsp;
     <a href="https://docs.expo.dev/" target="_blank"><img src="https://cutt.ly/YwtaeHqN" alt="expo" height="40" /></a>&nbsp;
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cutt.ly/ywtaeZ4Z" alt="tailwind" height="40" /></a>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cutt.ly/Mwtdr2RK" alt="tailwind" height="40" /></a>&nbsp;
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://cutt.ly/Owtae1UX" alt="bootstrap" height="40" /></a>&nbsp;
     <a href="https://nodejs.org/en" target="_blank"><img src="https://cutt.ly/hwtae8Bw" alt="nodejs" height="40" /></a>&nbsp;
     <a href="https://expressjs.com/" target="_blank"><img src="https://cutt.ly/twtarurQ" alt="express" height="40" /></a>&nbsp;
