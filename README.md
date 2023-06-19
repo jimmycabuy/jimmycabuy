@@ -118,7 +118,7 @@ Belgium](https://www.decathlon.be/fr/).
   >&nbsp;
   <a href="https://t.me/jimmycabuy/" target="_blank"
     ><img
-      src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246629121-b4390892-6f7e-4502-a88f-8467a8fbe4df.png"
+      src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246757030-a302edc7-3d4e-4cd8-9c78-2cfc886e5818.png"
       alt="Telegram"
       height="40" /></a
   >&nbsp;
