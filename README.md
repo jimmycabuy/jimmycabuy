@@ -45,6 +45,12 @@ Belgium](https://www.decathlon.be/fr/).
     alt="svelte"
     height="40" /></a
 >&nbsp;
+<a href="https://docs.expo.dev/develop/user-interface/app-icons/" target="_blank"
+  ><img
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246765218-02b63276-f4ad-40ff-8b3b-0a9a09cd4fc0.png"
+    alt="expo"
+    height="40" /></a
+>&nbsp;
 <a href="https://tailwindcss.com/" target="_blank"
   ><img
     src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246649933-b993feb4-126e-4fff-bd5b-cd5ebc1c9c99.png"
@@ -93,6 +99,12 @@ Belgium](https://www.decathlon.be/fr/).
     alt="xd"
     height="40" /></a
 >&nbsp;
+<a href="https://git-scm.com/" target="_blank"
+  ><img
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/246765225-a3f87a02-9475-4934-a3db-a0b8a245a3b2.png"
+    alt="git"
+    height="40" /></a
+>&nbsp;
 </p>
 
 ## 🌐 Connect with me
@@ -129,4 +141,3 @@ Belgium](https://www.decathlon.be/fr/).
       height="40" /></a
   >&nbsp;
 </p>
-
