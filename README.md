@@ -1,4 +1,4 @@
-![JIMMY](https://cutt.ly/fwtasQTB)
+![JIMMY](https://github.com/jimmycabuy/jimmycabuy/assets/102294421/db2dadd1-a2dc-4eac-8776-e92c59faf9f0)
 
 ## 👨🏽‍💻 About me
 I'm a dedicated web developer with a strong attention to detail and a passion for web design. Currently, I contribute my skills
