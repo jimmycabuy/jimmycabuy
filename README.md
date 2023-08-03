@@ -28,7 +28,7 @@ as a front-end developer at [Decathlon Belgium](https://www.decathlon.be/fr/).
 
 <p align="left">
     <a href="https://www.facebook.com/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247119215-35236422-c39b-496d-83cd-7ee3c5a28a5d.png" alt="Facebook" height="40" /></a>&nbsp;
-    <a href="https://www.instagram.com/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247119221-6f01b9e8-3edc-45b6-adae-eee199d0d992.png" alt="Instram" height="40" /></a>&nbsp;
+    <a href="https://www.instagram.com/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247119221-6f01b9e8-3edc-45b6-adae-eee199d0d992.png" alt="Instagram" height="40" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247120693-a2220961-bee1-4c2f-bd2d-252217713733.png" alt="Linkedin" height="40" /></a>&nbsp;
     <a href="https://www.twitter.com/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247119219-c88055ee-baec-4251-984a-a504de6c1d87.png" alt="Twitter" height="40" /></a>&nbsp;
     <a href="https://t.me/jimmycabuy/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247119227-94b24478-58c8-4e19-b86d-6867197e69b6.png" alt="Telegram" height="40" /></a>&nbsp;
