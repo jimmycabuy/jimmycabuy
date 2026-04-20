@@ -20,7 +20,7 @@ I love crafting intuitive UIs, exploring new technologies, and building polished
 JavaScript · HTML · CSS · TypeScript
 
 **Frameworks & Tools**  
-React · Svelte · Next.js · Redux · Tailwind CSS · GSAP · Node.js · Firebase · Figma
+React · Svelte · Next.js · Tailwind CSS · GSAP · Node.js · Firebase · Figma
 
 ---
 
@@ -29,9 +29,3 @@ React · Svelte · Next.js · Redux · Tailwind CSS · GSAP · Node.js · Fireba
 - UI & UX micro-interactions  
 - Clean and scalable component architecture  
 - Design systems and visual consistency
-
----
-
-### 🤝 Let’s Connect
-
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jimmycabuy) or drop a message on [Instagram](https://www.instagram.com/jimmycabuy/)
